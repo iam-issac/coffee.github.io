@@ -1,3 +1,4 @@
 function showAlert() {
-    alert('Thank you for your interest! Join us today for a healthier tomorrow.');
+    alert('Thank you for your interest! Order now and enjoy the best coffee experience.');
 }
+
